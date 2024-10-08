@@ -6,7 +6,7 @@ export default function Page() {
         <Nav />
 
         <div className="p-5 bg-light border text-center">
-            <h1 className="p-0 m-0">Hello, world!</h1>
+            <h1 className="p-0 m-0">Hello, world?</h1>
         </div>
 
     </>
